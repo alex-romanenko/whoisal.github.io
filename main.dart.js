@@ -37091,7 +37091,7 @@ u.cursor="default"}}
 Y.vp.prototype={
 P:function(a){return new A.Bd(new Y.vq(K.b6(a).y2.y.b),null)}}
 Y.vq.prototype={
-$2:function(a,b){var u=null,t=b.b<700,s=t?40:80,r=t?16:21,q=t?15:25,p=t?110:175,o=t?5:10,n=t?35:75,m=t?450:650,l=[N.b7]
+$2:function(a,b){var u=null,t=b.b<700,s=t?40:80,r=t?16:21,q=t?15:25,p=t?110:175,o=t?5:10,n=t?35:45,m=t?450:650,l=[N.b7]
 return M.cu(u,T.P9(H.b([M.cu(u,T.P9(H.b([M.cu(u,new K.wF(new L.vP("assets/images/avatar.jpg"),p,u),u,u,S.ep(u,u,u,this.a,u,u,C.aC),u,new V.aq(0,0,0,n),new V.aq(o,o,o,o),u,u),L.qB("Alex Romanenko",2,C.bJ,A.e5(u,u,u,u,u,u,u,u,u,u,u,s,u,C.fE,u,0.9,!0,u,u,u,u,u,u),C.di),new T.iD(u,q,u,u),L.qB("Experienced Developer in Microsoft .NET and Google Flutter",u,u,A.e5(u,u,u,u,u,u,u,u,u,u,u,r,u,u,u,1.5,!0,u,u,u,u,u,u),C.di)],l),C.ki,C.eQ),u,u,u,u,u,u,u,u)],l),C.eP,C.eQ),u,new S.aa(0,1/0,0,m),u,u,u,u,u,u)}}
 D.zi.prototype={
 P:function(a){var u=null,t=K.b6(a).r
@@ -37100,7 +37100,7 @@ U.zX.prototype={
 P:function(a){var u,t=null,s=Y.PK(a,Q.hm).a,r=K.b6(a).y2.y.b,q=P.aL(51,(16711680&r.gm(r))>>>16,(65280&r.gm(r))>>>8,(255&r.gm(r))>>>0),p=new Y.eo(q,6,C.I)
 r=new P.ay(5,5)
 r=S.ep(new F.bG(p,p,p,p),new K.b1(r,r,r,r),t,t,t,t,C.N)
-r=M.cu(t,L.qB("AR",t,t,A.e5(t,t,q,t,t,t,t,t,t,t,t,25,t,C.fE,t,t,!0,t,t,t,t,t,t),t),t,t,r,t,t,new V.aq(5,5,5,5),t,t)
+r=M.cu(t,L.qB("AR",t,t,A.e5(t,t,q,t,t,t,t,t,t,t,t,25,t,C.fE,t,t,!0,t,t,t,t,t,t),t),t,t,r,t,t,new V.aq(6,6,6,6),t,t)
 u=[N.b7]
 return M.cu(t,T.SJ(H.b([new T.yY(M.cu(t,T.SJ(H.b([r,U.RT(E.RL(L.RV(s.a===C.J?C.nU:C.nV,t,t),0,0,!1,new U.zY(a),"Switch theme"))],u),C.kj),t,t,t,t,t,t,t,t),t)],u),C.eP),t,t,t,t,t,t,t,t)}}
 U.zY.prototype={
